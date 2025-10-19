@@ -1,11 +1,11 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
+	"database-id": "28e6de871e3581b69b1bea898f9d5d30",
 	"data-source-id": "",
-	"author": "",
+	"author": "Sithe",
 	"tracking": {
 		"google-analytics": {
 			"use-ga": true,
-			"public-ga-tracking-id": ""
+			"public-ga-tracking-id": "G-BH8M5L7SJV"
 		},
 		"umami": {
 			"use-umami": false,
@@ -16,8 +16,8 @@
 	},
 	"google-search-console-html-tag": "",
 	"socials": {
-		"email": "",
-		"github": "",
+		"email": "me.sithe.ncube@gmail.com",
+		"github": "https://github.com/LadySith",
 		"googlescholar": "",
 		"semanticscholar": "",
 		"dblp": "",
@@ -27,19 +27,19 @@
 		"threads": "",
 		"instagram": "",
 		"mastodon": "",
-		"bluesky": "",
+		"bluesky": "sithe.bsky.social",
 		"calendar": "",
 		"kofi": "",
 		"buy-me-a-coffee": "",
-		"this-github-repo": "https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog"
+		"this-github-repo": ""
 	},
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
-		"data-repo-id": "R_kgDOK0FuUA",
+		"data-repo": "LadySith/sithe-dot-me",
+		"data-repo-id": "R_kgDOQD3poQ",
 		"data-category": "Announcements",
-		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
+		"data-category-id": "DIC_kwDOQD3poc4Cw0V-",
 		"data-mapping": "pathname",
 		"data-input-position": "top",
 		"data-reactions-enabled": true
